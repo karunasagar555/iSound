@@ -1,0 +1,8 @@
+<svg xmlns:x="http://ns.adobe.com/Extensibility/1.0/" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/" xmlns:graph="http://ns.adobe.com/Graphs/1.0/" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" fill="currentColor" xml:space="preserve">
+	<switch>
+		<!-- <foreignObject requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/" x="0" y="0" width="1" height="1" /> -->
+		<g i:extraneous="self">
+			<path fill="currentColor" d="M50,16.833c-18.317,0-33.167,14.849-33.167,33.167S31.683,83.167,50,83.167S83.167,68.317,83.167,50    S68.317,16.833,50,16.833z M63.081,58.132c1.367,1.366,1.367,3.583,0,4.949c-0.684,0.684-1.579,1.025-2.475,1.025    s-1.791-0.342-2.475-1.025L50,54.949l-8.132,8.132c-0.684,0.684-1.579,1.025-2.475,1.025s-1.791-0.342-2.475-1.025    c-1.367-1.366-1.367-3.583,0-4.949L45.051,50l-8.132-8.132c-1.367-1.366-1.367-3.583,0-4.949c1.367-1.367,3.582-1.367,4.949,0    L50,45.051l8.132-8.132c1.367-1.367,3.582-1.367,4.949,0c1.367,1.366,1.367,3.583,0,4.949L54.949,50L63.081,58.132z" />
+		</g>
+	</switch>
+</svg>
